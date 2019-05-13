@@ -1,8 +1,3 @@
-
-# Done By
-# S.Surya
-# V.Priyanka
-
 install.packages("tidyr")
 library(tidyr)
 
